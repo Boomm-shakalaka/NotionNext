@@ -40,6 +40,7 @@ module.exports = {
       name: 'feelslikeimfallinginlove',
       artist: 'coldplay',
       url: 'https://music.163.com/song/media/outer/url?id=2600347798.mp3'
+    },
     {
       name: '王都グランセル',
       artist: 'Falcom Sound Team jdk',
